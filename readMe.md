@@ -12,4 +12,4 @@
 ### Developed by Mahmudul Hasan Sakib
 
 > [!CAUTION]
-> All rights are reserved, 2025 © Mahmudul Hasan Sakib
+> All rights are reserved | 2025 © Mahmudul Hasan Sakib
