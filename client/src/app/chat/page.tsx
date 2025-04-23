@@ -15,7 +15,7 @@ const ChatPage = () => {
   const [room, setRoom] = useState("");
   const [messages, setMessages] = useState<Message[]>([]);
   const [message, setMessage] = useState("");
-  const [users, setUsers] = useState("");
+  const [users, setUsers] = useState<{ name: string }[]>([]);
 
   const searchParams = useSearchParams();
   const namee = searchParams.get("name") ?? "";
